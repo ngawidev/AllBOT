@@ -9,7 +9,7 @@ $device = "7.1.2";
 $timezone = "8";
 $version = "42";
 /*-------------------------------*/
-$token = "MDdhOWFhZjMtNDY5NC00OTIxLThlNTYtODFkY2U3NTE3N2Ix";
+$token = "OTJiYTI3ZjItODUzMS00YTc4LTg3OTgtZmU3M2E4MGJjNWNm";
 $uuid = "622445499540305";
 $lang = "in";
 $userid = "48747110";
