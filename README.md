@@ -1,0 +1,2 @@
+# AllBOT
+Semua Script BOT
