@@ -1,0 +1,170 @@
+{
+  "Name": "1",
+  "CreationDate": "2021-3-13",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://coin-mining-farm.com/join/Rdrzb1615619388",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Start Mining",
+      "Value": "",
+      "Targets": [
+        "linkText=Start Mining",
+        "xpath=//*[@id=\"banner-part\"]/div/div/div/div/div/div/a",
+        "xpath=//div/div/div/div/div/a",
+        "css=#banner-part > div > div > div > div > div.col-lg-6.p-0.fadeInLeft.visible.animated.full-visible > div > a"
+      ]
+    },
+    {
+      "Command": "click",
+      "Target": "name=email",
+      "Value": "",
+      "Targets": [
+        "name=email",
+        "xpath=//*[@id=\"myvue\"]/div/div[2]/form/div/input",
+        "xpath=//input[@name='email']",
+        "xpath=//input",
+        "css=#myvue > div > div.card-body > form > div:nth-child(1) > input"
+      ]
+    },
+    {
+      "Command": "type",
+      "Target": "name=email",
+      "Value": "terodeco@mail.com",
+      "Targets": [
+        "name=email",
+        "xpath=//*[@id=\"myvue\"]/div/div[2]/form/div/input",
+        "xpath=//input[@name='email']",
+        "xpath=//input",
+        "css=#myvue > div > div.card-body > form > div:nth-child(1) > input"
+      ]
+    },
+    {
+      "Command": "type",
+      "Target": "name=mobile",
+      "Value": "+628157781144",
+      "Targets": [
+        "name=mobile",
+        "xpath=//*[@id=\"myvue\"]/div/div[2]/form/div[2]/input",
+        "xpath=//input[@name='mobile']",
+        "xpath=//div[2]/input",
+        "css=#myvue > div > div.card-body > form > div:nth-child(2) > input"
+      ]
+    },
+    {
+      "Command": "type",
+      "Target": "name=password",
+      "Value": "wata182",
+      "Targets": [
+        "name=password",
+        "xpath=//*[@id=\"myvue\"]/div/div[2]/form/div[3]/input",
+        "xpath=//input[@name='password']",
+        "xpath=//div[3]/input",
+        "css=#myvue > div > div.card-body > form > div:nth-child(3) > input"
+      ]
+    },
+    {
+      "Command": "type",
+      "Target": "id=cpatchaTextBox",
+      "Value": "",
+      "Targets": [
+        "id=cpatchaTextBox",
+        "name=captcha",
+        "xpath=//*[@id=\"cpatchaTextBox\"]",
+        "xpath=//input[@id='cpatchaTextBox']",
+        "xpath=//div[5]/input",
+        "css=#cpatchaTextBox"
+      ]
+    },
+    {
+      "Command": "pause",
+      "Target": "",
+      "Value": "5000"
+    },
+    {
+      "Command": "comment",
+      "Target": "open // https://coin-mining-farm.com/panel",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "linkText=ADD Miner",
+      "Value": "",
+      "Targets": [
+        "linkText=ADD Miner",
+        "xpath=//*[@id=\"myvue\"]/div/div/div/a[2]",
+        "xpath=//a[2]",
+        "css=#myvue > div > div.col-lg-2.sidenav > div > a:nth-child(2)"
+      ]
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "linkText=Start Now@POS=2",
+      "Value": "",
+      "Targets": [
+        "linkText=Start Now@POS=2",
+        "xpath=//*[@id=\"myvue\"]/div/div[2]/div[2]/div[3]/div/div[4]/a",
+        "xpath=//div[3]/div/div[4]/a",
+        "css=#myvue > div > div.col-lg-10.my-2 > div.row.mt-2 > div:nth-child(3) > div > div.card-footer.white > a"
+      ]
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Start Now",
+      "Value": "",
+      "Targets": [
+        "linkText=Start Now",
+        "xpath=//*[@id=\"myvue\"]/div/div[2]/div/div[2]/div/div/div/div/a",
+        "xpath=//div[2]/div/div/div/div/a",
+        "css=#myvue > div > div.col-lg-10.my-2 > div > div.col-lg-4.mb-2 > div > div > div > div > a"
+      ]
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "linkText=ADD Miner",
+      "Value": "",
+      "Targets": [
+        "linkText=ADD Miner",
+        "xpath=//*[@id=\"myvue\"]/div/div/div/a[2]",
+        "xpath=//a[2]",
+        "css=#myvue > div > div.col-lg-2.sidenav > div > a:nth-child(2)"
+      ]
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "linkText=Start Now",
+      "Value": "",
+      "Targets": [
+        "linkText=Start Now",
+        "xpath=//*[@id=\"myvue\"]/div/div[2]/div[2]/div[2]/div/div[4]/a",
+        "xpath=//div[4]/a",
+        "css=#myvue > div > div.col-lg-10.my-2 > div.row.mt-2 > div:nth-child(2) > div > div.card-footer.white > a"
+      ]
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Start Now",
+      "Value": "",
+      "Targets": [
+        "linkText=Start Now",
+        "xpath=//*[@id=\"myvue\"]/div/div[2]/div/div[2]/div/div/div/div/a",
+        "xpath=//div[2]/div/div/div/div/a",
+        "css=#myvue > div > div.col-lg-10.my-2 > div > div.col-lg-4.mb-2 > div > div > div > div > a"
+      ]
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Logout",
+      "Value": "",
+      "Targets": [
+        "linkText=Logout",
+        "xpath=//*[@id=\"myvue\"]/div/div/div/a[9]",
+        "xpath=//a[9]",
+        "css=#myvue > div > div.col-lg-2.sidenav > div > a:nth-child(9)"
+      ]
+    }
+  ]
+}
